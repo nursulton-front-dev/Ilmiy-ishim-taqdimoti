@@ -1,7 +1,3 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 /* Дополнительные анимации и вспомогательные классы, используемые в App.jsx */
 @keyframes fade-in {
 	from { opacity: 0; transform: translateY(20px); }
